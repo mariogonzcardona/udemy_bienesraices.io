@@ -9,7 +9,7 @@ Este proyecto es desarrollado para reforzar los conocimientos en HTML y CSS, com
 
 Pagina web aun en desarrollo para la implementación y visualización de portafolio de proyectos.
 
-* [Portfolio] - Pagina HTML y CSS
+* [Bienesraices] - Pagina HTML y CSS
 
 ### Actividades a realizar
 
@@ -22,5 +22,5 @@ License
 
 MIT
 
-   [Portfolio]:<https://mariogonzcardona.github.io/udemy_bienesraices.io/>
+   [Bienesraices]:<https://mariogonzcardona.github.io/udemy_bienesraices.io/>
    [Visual Studio Code]: <https://code.visualstudio.com/>
