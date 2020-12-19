@@ -17,14 +17,20 @@
                 <a href="/udemy_bienesraices.io/">
                     <img src="img/logo.svg" alt="Logotipos de Bienes Raices">
                 </a>
-                <nav class="navegacion">
+                <div class="mobile-menu">
+                    <a href="#navegacion">
+                        <img src="img/barras.svg" alt="Icono Menu">
+                    </a>
+                </div>
+                <nav id="navegacion" class="navegacion">
                     <a href="nosotros.html">Nosotros</a>
                     <a href="anuncios.html">Anuncios</a>
                     <a href="blog.html">Blog</a>
                     <a href="contacto.html">Contacto</a>
                 </nav>
             </div>
-        </div> <!-- Fin Contenedor -->
+        </div>
+        <!-- Fin Contenedor -->
     </header>
 
     <h1 class="fw-300 centrar-texto">Contacto</h1>
@@ -47,14 +53,13 @@
                 <input type="tel" id="phone" placeholder="Tu Telefono" required>
 
                 <label for="message">Mensaje: </label>
-                <textarea name="mensaje" id="message" cols="30" rows="10"
-                    placeholder="Introduce el texto aqui:"></textarea>
+                <textarea name="mensaje" id="message" cols="30" rows="10" placeholder="Introduce el texto aqui:"></textarea>
             </fieldset>
 
             <!-- Informacion Sobre Propiedad -->
             <fieldset>
                 <legend>Informacion sobre Propiedad</legend>
-                <label for="options"Vende o Compra></label>
+                <label for="options" Vende o Compra></label>
                 <select name="opciones" id="option">
                     <option value="" disabled selected>--Seleccione--</option>
                     <option value="Compra">Compra</option>
@@ -75,7 +80,7 @@
 
                     <label for="email2">E-mail</label>
                     <input type="radio" id="email2" name="contact" value="email">
-               </div>
+                </div>
 
                 <p>Elija del Menu</p>
                 <div class="forma-contacto">

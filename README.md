@@ -7,14 +7,14 @@ Este proyecto es desarrollado para reforzar los conocimientos en HTML y CSS, com
   - Diseño de portafolio elaborado en HTML.
   - Elementos y selectores CSS.
 
-Pagina web aun en desarrollo para la implementación y visualización de portafolio de proyectos.
+Pagina web aun en desarrollo para la implementación y visualización Responsive Web Design.
 
 * [Bienesraices] - Pagina HTML y CSS
 
 ### Actividades a realizar
 
- - Mejorar apariencia
- - Agregar más proyectos
+ - Mejorar apariencia.
+ - Agregar RWD.
 
 
 License
